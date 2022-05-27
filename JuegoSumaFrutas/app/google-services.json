@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468172193708",
+    "project_id": "juegosumafrutas-167f1",
+    "storage_bucket": "juegosumafrutas-167f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468172193708:android:1cf712f1cfa2958ee4c409",
+        "android_client_info": {
+          "package_name": "com.example.juegosumafrutas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468172193708-oq9velkbldn82g3qnd5nslp2trugoqqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC70ipo9kjdpAdzuDvP0lOOd6y0wni8Eds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468172193708-oq9velkbldn82g3qnd5nslp2trugoqqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
